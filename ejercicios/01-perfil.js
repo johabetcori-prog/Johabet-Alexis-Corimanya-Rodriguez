@@ -7,4 +7,3 @@ const instituto= "IDAT";
 let matriculado= true;
 
 console.log(`${nombre}, de ${edad}, esta matriculado en ${instituto}?: ${matriculado}`);
-// TODO: escribe aquí tu solución.

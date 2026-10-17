@@ -6,4 +6,4 @@ const producto="Cuaderno";
 const precioUnitario=12.5;
 const cantidad=3;
 
-console.log(`1. ${producto}  |  precio: ${precioUnitario} | x ${cantidad} \n subtotal= ${precioUnitario*cantidad} \n total= ${subtotal*1}`)
+console.log(`1. ${producto}  |  precio: ${precioUnitario} | x ${cantidad} \n subtotal= ${precioUnitario*cantidad} \n total= ${precioUnitario*cantidad}`)

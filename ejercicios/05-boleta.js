@@ -2,4 +2,8 @@
 // Boleta de compra
 // Declara const producto="Cuaderno", const precioUnitario=12.5, const cantidad=3. Calcula subtotal y crea mensajeBoleta que incluya producto y total.
 
-// TODO: escribe aquí tu solución.
+const producto="Cuaderno";
+const precioUnitario=12.5;
+const cantidad=3;
+
+console.log(`1. ${producto}  |  precio: ${precioUnitario} | x ${cantidad} \n subtotal= ${precioUnitario*cantidad} \n total= ${subtotal*1}`)

@@ -2,4 +2,11 @@
 // Calculadora de propina
 // Declara const montoTexto="80.50", const porcentajeTexto="10". Convierte ambos a Number; calcula propina y totalConPropina (monto + propina).
 
-// TODO: escribe aquí tu solución.
+const montoTexto="80.50";
+const porcentajeTexto="10";
+
+montoTexto=Number(montoTexto);
+porcentajeTexto=Number(porcentajeTexto);
+
+propina=montoTexto*porcentajeTexto;
+totalConPropina=montoTexto+propina;

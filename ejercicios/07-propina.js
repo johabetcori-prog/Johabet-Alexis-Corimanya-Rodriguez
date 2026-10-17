@@ -5,5 +5,5 @@
 const montoTexto="80.50";
 const porcentajeTexto="10";
 
-propina=Number(montoTexto)*Number(porcentajeTexto/100);
+propina=Number(montoTexto)*Number(porcentajeTexto)/100;
 totalConPropina=Number(montoTexto)+propina;
